@@ -6,7 +6,7 @@ from tensorflow.keras.models import load_model
 import numpy as np
 from PIL import Image
 
-st.title('Welcome to Farm Lab')
+st.title('Welcome to Agri Vision Scan')
 st.subheader('This is a mobile lab where you test the quality of your plant using your phone camera.', divider='green')
 # st.divider()
 
