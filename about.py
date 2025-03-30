@@ -1,6 +1,5 @@
 import streamlit as st
 st.title("Hello")
-st.markdown(multi)
 
 multi = '''
 # About Agri Vision Scan
@@ -40,3 +39,5 @@ For more information and updates, stay connected with us.
 
 
 '''
+
+st.markdown(multi)
